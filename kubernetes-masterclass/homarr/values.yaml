@@ -1,0 +1,11 @@
+env:
+  TZ: "America/Chicago"
+
+persistence:
+  homarrDatabase:
+    enabled: true
+    size: "1Gi"
+
+service:
+  enabled: true
+  type: LoadBalancer
