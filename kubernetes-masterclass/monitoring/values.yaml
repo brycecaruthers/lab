@@ -1,0 +1,3 @@
+grafana:
+  #this is how we would reset the password if it were the old way
+  #adminPassword: hello-world
